@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "313883374360",
+    "firebase_url": "https://chatapp-b0e74.firebaseio.com",
+    "project_id": "chatapp-b0e74",
+    "storage_bucket": "chatapp-b0e74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313883374360:android:82fa93fd97ad58aa",
+        "android_client_info": {
+          "package_name": "com.carteira.miguel.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313883374360-ptjfd7of8hnphgtma2n2nutdui55fbrl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.carteira.miguel.chatapp",
+            "certificate_hash": "9ace5f8b6ef4f2714a7d13c607bf53f4e78f8091"
+          }
+        },
+        {
+          "client_id": "313883374360-me35naqulji5msk0etn0he8006dtt31a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU2rF_WEHOrgaye64xuOjIx86kp05QEZo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313883374360-me35naqulji5msk0etn0he8006dtt31a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
